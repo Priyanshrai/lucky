@@ -6,6 +6,8 @@ welcome to Lucky development page
 2.blog
 3.chicken fry
 
+4.beans
+5.pizza
 
 
 thank you
